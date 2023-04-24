@@ -1,3 +1,6 @@
+// Variables globales y locales
+// Cambio dentro y fuera del bloque {}
+
 var pelicula = "Los Locos Addams";
 console.log("Variable película antes del bloque:", pelicula)
 
